@@ -21,5 +21,6 @@
 
 ### Resources to Build Chat Interface with Docs
 
-- Langchain library and the concepts: [here](https://python.langchain.com/en/latest/getting_started/concepts.html)- - For QA over KB: [here](https://towardsdatascience.com/generative-question-answering-with-long-term-memory-c280e237b144)
+- Langchain library and the concepts: [here](https://python.langchain.com/en/latest/getting_started/concepts.html)
+- For QA over KB: [here](https://towardsdatascience.com/generative-question-answering-with-long-term-memory-c280e237b144)
   - Main Keywords: Vector Embeddings of the documents, Vector Databases and retrieval based on vector embeddings, Chaining prompts (basically what langchain does) [here](https://python.langchain.com/en/latest/modules/indexes/getting_started.html)
