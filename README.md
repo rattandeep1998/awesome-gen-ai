@@ -18,6 +18,8 @@
 - Emerging Architectures of LLMs: [here](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - Free Course on LangChain and VectorDB in Producation: [here](http://learn.activeloop.ai/courses/langchain?ref=bd932c)
 - Introducing English as new Programming Language for Apache Spark: [here](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark?fbclid=IwAR0ggS0tRVh5U3UJg8J_zhiQtqWC-PoC0y-miyHWnycMa2TTC94ZlXi1-SA_aem_AR-D7lMFJaxZegM6MJIjpmALkT1dw98J4uP_CfzYQtGDGa4UNH-AXbqL8fMRUYiLNEY)
+- Patterns for Building LLM Systems: [here](https://eugeneyan.com/writing/llm-patterns/)
+- Short Course - Evaluating and Debugging Generative AI: [here](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai/)
 
 ### Resources to Build Chat Interface with Docs
 
